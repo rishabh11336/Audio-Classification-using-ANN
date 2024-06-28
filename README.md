@@ -14,39 +14,33 @@ pip install -r requirements.txt
 
 ## Usage
 
-Explain how to use your project, including any configuration needed, how to train the model, and how to test it. Provide examples of commands or scripts to run.
-
-```bash
-python train.py --epochs 50 --batch_size 32
-python test.py --model_path /path/to/saved_model
-```
+Run `jupyter-notebook`
 
 ## Dataset
 
-Provide information about the dataset used. Include details like its source (UrbanAudio8K.org), how to download it, and any preprocessing steps applied.
+source: [UrbanAudio8K](https://urbansounddataset.weebly.com/urbansound8k.html), Fill the form and download the data
 
 ## Model Architecture
-
-Describe the architecture of your neural network model briefly. Include relevant details such as the number of layers, activation functions used, and any other significant design choices.
+![alt text](image.png)
 
 ## Results
 
-Discuss the results of your model, including metrics like accuracy, loss curves, and any insights gained from the evaluation.
+optained `accuracy` of `81%` 
 
-## Future Work
-
-Outline potential future improvements or extensions to your project. This could include experimenting with different models, adding more features, or optimizing performance.
-
-## Contributors
-
-List the contributors to the project, including yourself and any collaborators.
-
-## License
-
-Specify the license under which your project is distributed. For example:
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
-Mention any acknowledgments or credits for libraries, datasets, or inspiration.
+[Krish C Naik](https://github.com/krishnaik06)
+
+```
+Part 1 : https://youtu.be/mHPpCXqQd7Y?si=PbR9i0M4BbNVdBr_ 
+```
+```
+Part 2 : https://youtu.be/4F-cwOkMdTE?si=uBulPsAuG33pGAQJ
+```
+```
+Part 3 : https://youtu.be/uTFU7qThylE?si=Higj7KXMCJjOHnGO
+```
+```
+Part 4: https://youtu.be/cqndT517NcQ?si=nxSGMBXbBkPg5dRx
+```
