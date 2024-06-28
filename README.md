@@ -1,10 +1,8 @@
 # Audio Classification using ANN (Artificial Neural Network) with TensorFlow
 
-This repository contains code for a simple audio classification project using Artificial Neural Networks (ANN) implemented with TensorFlow. The model achieves 81% accuracy on the dataset downloaded from [UrbanAudio8K](https://urbansounddataset.weebly.com/urbansound8k.html).
-
 ## Project Overview
 
-Describe briefly what your project does and its goals. Mention the dataset used and any notable achievements or features of your implementation.
+This repository contains code for a simple audio classification project using Artificial Neural Networks (ANN) implemented with TensorFlow. The model achieves 81% accuracy on the dataset downloaded from [UrbanAudio8K](https://urbansounddataset.weebly.com/urbansound8k.html).
 
 ## Installation
 
